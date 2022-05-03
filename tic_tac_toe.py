@@ -1,4 +1,3 @@
-
 # Author: Jun Kim
 # Date:03/02/2020
 # Description: Program for a TicTacToe Game.
